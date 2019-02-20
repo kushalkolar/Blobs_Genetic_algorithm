@@ -1,0 +1,3 @@
+A small project for me to learn about genetic algorithms.
+
+I will refactor this later...
